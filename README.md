@@ -203,7 +203,13 @@ No confidential legal datasets are uploaded.
 - Investigation Procedures
 
 ---
+## Teammates
 
+- Roopraj Murmu
+- Rishabh Kumar Jha
+- Sachin Kumar
+
+---
 ## License
 
 MIT License

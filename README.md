@@ -182,19 +182,6 @@ python main.py
 
 ---
 
-## Dataset Notice
-
-The original legal knowledge graphs and datasets are NOT included in this repository due to confidentiality restrictions.
-
-The repository only contains:
-- source code
-- graph processing pipeline
-- frontend/backend implementation
-
-No confidential legal datasets are uploaded.
-
----
-
 ## Example Legal Domains
 
 - NDPS Act
